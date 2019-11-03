@@ -1,4 +1,4 @@
-# PROI_Kosmo_Igra_2.0
+# proi-kosmo-igra-2
 Object-oriented space shooter game
 
 Made using C++ and SFML graphic library.
